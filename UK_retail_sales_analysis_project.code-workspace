@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "uk_retail_large_datasets",
+			"path": "../../retail_uk/UK_retail_datasets/uk_retail_large_datasets"
+		},
+		{
+			"name": "project",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}

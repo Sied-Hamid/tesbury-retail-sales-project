@@ -1,0 +1,801 @@
+employee_id,store_id,role
+1,48,Cashier
+2,67,Stock Assistant
+3,164,Stock Assistant
+4,199,Stock Assistant
+5,119,Cashier
+6,172,Cashier
+7,188,Stock Assistant
+8,191,Cashier
+9,133,Stock Assistant
+10,119,Cashier
+11,86,Manager
+12,106,Manager
+13,76,Cashier
+14,40,Manager
+15,19,Manager
+16,47,Manager
+17,65,Stock Assistant
+18,195,Cashier
+19,146,Cashier
+20,178,Cashier
+21,30,Manager
+22,126,Stock Assistant
+23,66,Cashier
+24,5,Manager
+25,93,Stock Assistant
+26,97,Stock Assistant
+27,170,Cashier
+28,94,Cashier
+29,106,Manager
+30,133,Cashier
+31,178,Manager
+32,85,Stock Assistant
+33,58,Stock Assistant
+34,79,Stock Assistant
+35,8,Stock Assistant
+36,159,Cashier
+37,12,Cashier
+38,149,Manager
+39,94,Manager
+40,190,Manager
+41,91,Manager
+42,33,Manager
+43,154,Stock Assistant
+44,100,Stock Assistant
+45,168,Stock Assistant
+46,193,Manager
+47,187,Stock Assistant
+48,15,Stock Assistant
+49,114,Stock Assistant
+50,129,Stock Assistant
+51,11,Cashier
+52,55,Manager
+53,2,Manager
+54,65,Cashier
+55,172,Stock Assistant
+56,16,Stock Assistant
+57,150,Stock Assistant
+58,106,Manager
+59,146,Manager
+60,175,Manager
+61,30,Manager
+62,10,Manager
+63,186,Cashier
+64,62,Manager
+65,85,Stock Assistant
+66,134,Manager
+67,67,Cashier
+68,41,Stock Assistant
+69,171,Cashier
+70,18,Stock Assistant
+71,58,Manager
+72,60,Cashier
+73,88,Stock Assistant
+74,27,Manager
+75,68,Stock Assistant
+76,22,Cashier
+77,152,Cashier
+78,40,Cashier
+79,109,Cashier
+80,74,Manager
+81,66,Stock Assistant
+82,168,Manager
+83,6,Cashier
+84,112,Stock Assistant
+85,18,Cashier
+86,81,Manager
+87,102,Manager
+88,110,Manager
+89,30,Stock Assistant
+90,122,Stock Assistant
+91,149,Cashier
+92,62,Stock Assistant
+93,138,Stock Assistant
+94,120,Manager
+95,107,Cashier
+96,141,Manager
+97,76,Cashier
+98,9,Cashier
+99,196,Stock Assistant
+100,39,Manager
+101,24,Stock Assistant
+102,125,Stock Assistant
+103,118,Stock Assistant
+104,34,Cashier
+105,61,Manager
+106,169,Manager
+107,133,Stock Assistant
+108,79,Cashier
+109,50,Manager
+110,132,Manager
+111,51,Stock Assistant
+112,52,Cashier
+113,122,Stock Assistant
+114,167,Manager
+115,8,Cashier
+116,113,Stock Assistant
+117,45,Manager
+118,88,Stock Assistant
+119,28,Stock Assistant
+120,119,Stock Assistant
+121,107,Cashier
+122,27,Manager
+123,193,Manager
+124,162,Manager
+125,81,Manager
+126,101,Cashier
+127,62,Stock Assistant
+128,62,Manager
+129,166,Cashier
+130,26,Stock Assistant
+131,121,Cashier
+132,24,Cashier
+133,39,Manager
+134,124,Manager
+135,21,Stock Assistant
+136,94,Stock Assistant
+137,175,Manager
+138,115,Cashier
+139,176,Manager
+140,121,Stock Assistant
+141,13,Cashier
+142,131,Cashier
+143,160,Cashier
+144,163,Manager
+145,19,Manager
+146,142,Stock Assistant
+147,176,Cashier
+148,81,Cashier
+149,123,Manager
+150,68,Stock Assistant
+151,173,Stock Assistant
+152,19,Cashier
+153,64,Manager
+154,101,Cashier
+155,66,Manager
+156,66,Stock Assistant
+157,75,Cashier
+158,45,Cashier
+159,87,Cashier
+160,67,Stock Assistant
+161,197,Cashier
+162,3,Stock Assistant
+163,166,Manager
+164,170,Stock Assistant
+165,168,Manager
+166,178,Stock Assistant
+167,163,Stock Assistant
+168,24,Cashier
+169,88,Stock Assistant
+170,17,Cashier
+171,40,Manager
+172,194,Manager
+173,172,Cashier
+174,151,Manager
+175,6,Stock Assistant
+176,194,Cashier
+177,149,Cashier
+178,119,Cashier
+179,120,Manager
+180,35,Manager
+181,113,Stock Assistant
+182,29,Stock Assistant
+183,7,Cashier
+184,53,Stock Assistant
+185,165,Manager
+186,23,Stock Assistant
+187,97,Manager
+188,136,Stock Assistant
+189,76,Manager
+190,176,Manager
+191,10,Stock Assistant
+192,117,Stock Assistant
+193,24,Manager
+194,175,Cashier
+195,181,Stock Assistant
+196,39,Manager
+197,195,Stock Assistant
+198,66,Stock Assistant
+199,6,Stock Assistant
+200,21,Stock Assistant
+201,73,Stock Assistant
+202,74,Cashier
+203,36,Cashier
+204,131,Cashier
+205,170,Manager
+206,173,Cashier
+207,44,Cashier
+208,91,Manager
+209,161,Cashier
+210,60,Stock Assistant
+211,93,Cashier
+212,83,Cashier
+213,198,Cashier
+214,83,Stock Assistant
+215,77,Stock Assistant
+216,26,Stock Assistant
+217,21,Stock Assistant
+218,120,Manager
+219,130,Stock Assistant
+220,175,Stock Assistant
+221,108,Stock Assistant
+222,158,Stock Assistant
+223,27,Manager
+224,71,Cashier
+225,148,Cashier
+226,50,Stock Assistant
+227,95,Stock Assistant
+228,23,Stock Assistant
+229,141,Cashier
+230,81,Cashier
+231,132,Stock Assistant
+232,142,Cashier
+233,20,Manager
+234,124,Stock Assistant
+235,13,Stock Assistant
+236,3,Manager
+237,175,Manager
+238,131,Cashier
+239,129,Manager
+240,90,Stock Assistant
+241,152,Cashier
+242,35,Manager
+243,14,Cashier
+244,195,Cashier
+245,141,Cashier
+246,175,Cashier
+247,50,Manager
+248,78,Stock Assistant
+249,154,Stock Assistant
+250,3,Manager
+251,179,Stock Assistant
+252,40,Cashier
+253,196,Cashier
+254,164,Cashier
+255,51,Manager
+256,1,Cashier
+257,104,Cashier
+258,161,Manager
+259,135,Cashier
+260,117,Cashier
+261,116,Stock Assistant
+262,52,Manager
+263,120,Cashier
+264,139,Cashier
+265,155,Cashier
+266,142,Cashier
+267,86,Stock Assistant
+268,46,Stock Assistant
+269,76,Stock Assistant
+270,10,Stock Assistant
+271,152,Manager
+272,61,Cashier
+273,18,Stock Assistant
+274,86,Cashier
+275,137,Manager
+276,145,Cashier
+277,128,Cashier
+278,104,Stock Assistant
+279,186,Stock Assistant
+280,141,Manager
+281,178,Cashier
+282,101,Stock Assistant
+283,6,Stock Assistant
+284,85,Stock Assistant
+285,51,Manager
+286,36,Cashier
+287,71,Stock Assistant
+288,100,Cashier
+289,25,Manager
+290,139,Cashier
+291,44,Stock Assistant
+292,14,Cashier
+293,29,Cashier
+294,74,Manager
+295,50,Manager
+296,5,Cashier
+297,200,Cashier
+298,110,Cashier
+299,197,Manager
+300,122,Manager
+301,88,Cashier
+302,57,Manager
+303,26,Stock Assistant
+304,6,Manager
+305,144,Manager
+306,60,Manager
+307,100,Stock Assistant
+308,12,Stock Assistant
+309,75,Stock Assistant
+310,3,Cashier
+311,63,Cashier
+312,192,Stock Assistant
+313,190,Cashier
+314,134,Cashier
+315,19,Cashier
+316,18,Stock Assistant
+317,80,Manager
+318,171,Stock Assistant
+319,73,Stock Assistant
+320,131,Cashier
+321,126,Cashier
+322,72,Manager
+323,38,Manager
+324,68,Manager
+325,172,Manager
+326,80,Stock Assistant
+327,191,Manager
+328,42,Stock Assistant
+329,64,Cashier
+330,182,Manager
+331,78,Cashier
+332,127,Cashier
+333,105,Stock Assistant
+334,199,Manager
+335,76,Stock Assistant
+336,165,Cashier
+337,132,Manager
+338,130,Cashier
+339,122,Cashier
+340,44,Manager
+341,195,Manager
+342,196,Manager
+343,102,Stock Assistant
+344,62,Stock Assistant
+345,1,Cashier
+346,17,Manager
+347,16,Cashier
+348,9,Cashier
+349,181,Cashier
+350,59,Cashier
+351,119,Cashier
+352,137,Manager
+353,140,Stock Assistant
+354,119,Manager
+355,41,Manager
+356,143,Manager
+357,66,Stock Assistant
+358,75,Stock Assistant
+359,11,Stock Assistant
+360,8,Manager
+361,183,Stock Assistant
+362,134,Cashier
+363,181,Stock Assistant
+364,148,Manager
+365,167,Manager
+366,99,Cashier
+367,72,Stock Assistant
+368,113,Stock Assistant
+369,107,Cashier
+370,34,Manager
+371,57,Manager
+372,117,Stock Assistant
+373,120,Stock Assistant
+374,147,Stock Assistant
+375,71,Stock Assistant
+376,159,Stock Assistant
+377,40,Manager
+378,142,Manager
+379,103,Manager
+380,124,Manager
+381,123,Cashier
+382,100,Manager
+383,165,Cashier
+384,172,Manager
+385,137,Stock Assistant
+386,58,Stock Assistant
+387,148,Stock Assistant
+388,109,Cashier
+389,121,Manager
+390,92,Manager
+391,50,Cashier
+392,148,Cashier
+393,105,Cashier
+394,164,Cashier
+395,117,Cashier
+396,27,Stock Assistant
+397,200,Manager
+398,32,Cashier
+399,1,Stock Assistant
+400,17,Cashier
+401,137,Stock Assistant
+402,84,Cashier
+403,45,Manager
+404,66,Cashier
+405,32,Cashier
+406,45,Manager
+407,9,Manager
+408,30,Cashier
+409,84,Manager
+410,166,Manager
+411,60,Stock Assistant
+412,1,Manager
+413,5,Manager
+414,63,Cashier
+415,164,Cashier
+416,65,Stock Assistant
+417,78,Cashier
+418,152,Manager
+419,132,Manager
+420,114,Manager
+421,196,Cashier
+422,25,Manager
+423,135,Manager
+424,141,Stock Assistant
+425,196,Stock Assistant
+426,43,Stock Assistant
+427,57,Cashier
+428,164,Manager
+429,142,Manager
+430,72,Manager
+431,27,Stock Assistant
+432,128,Manager
+433,106,Manager
+434,165,Manager
+435,71,Manager
+436,153,Manager
+437,67,Cashier
+438,90,Manager
+439,4,Cashier
+440,106,Manager
+441,79,Cashier
+442,96,Manager
+443,93,Manager
+444,74,Manager
+445,126,Manager
+446,16,Stock Assistant
+447,147,Manager
+448,157,Cashier
+449,116,Stock Assistant
+450,179,Stock Assistant
+451,18,Manager
+452,186,Cashier
+453,172,Cashier
+454,16,Stock Assistant
+455,193,Cashier
+456,130,Manager
+457,56,Manager
+458,79,Manager
+459,103,Manager
+460,28,Manager
+461,193,Stock Assistant
+462,5,Manager
+463,106,Manager
+464,22,Stock Assistant
+465,117,Stock Assistant
+466,100,Stock Assistant
+467,13,Cashier
+468,65,Cashier
+469,144,Manager
+470,86,Manager
+471,64,Manager
+472,32,Cashier
+473,80,Manager
+474,51,Manager
+475,79,Cashier
+476,186,Stock Assistant
+477,174,Cashier
+478,180,Manager
+479,106,Cashier
+480,63,Stock Assistant
+481,76,Stock Assistant
+482,60,Stock Assistant
+483,65,Stock Assistant
+484,117,Stock Assistant
+485,81,Stock Assistant
+486,105,Manager
+487,128,Manager
+488,183,Cashier
+489,185,Manager
+490,71,Stock Assistant
+491,86,Manager
+492,154,Cashier
+493,140,Stock Assistant
+494,71,Manager
+495,46,Manager
+496,47,Cashier
+497,79,Stock Assistant
+498,166,Cashier
+499,149,Stock Assistant
+500,142,Stock Assistant
+501,130,Manager
+502,200,Cashier
+503,127,Cashier
+504,109,Cashier
+505,119,Stock Assistant
+506,198,Cashier
+507,101,Stock Assistant
+508,161,Cashier
+509,6,Cashier
+510,126,Manager
+511,103,Cashier
+512,37,Manager
+513,142,Manager
+514,37,Stock Assistant
+515,8,Cashier
+516,77,Cashier
+517,141,Cashier
+518,40,Manager
+519,107,Cashier
+520,92,Stock Assistant
+521,186,Stock Assistant
+522,18,Cashier
+523,57,Manager
+524,83,Stock Assistant
+525,166,Stock Assistant
+526,32,Manager
+527,194,Stock Assistant
+528,25,Manager
+529,186,Stock Assistant
+530,33,Manager
+531,88,Stock Assistant
+532,194,Cashier
+533,158,Stock Assistant
+534,104,Stock Assistant
+535,34,Cashier
+536,102,Cashier
+537,127,Cashier
+538,69,Cashier
+539,176,Manager
+540,40,Manager
+541,179,Stock Assistant
+542,80,Stock Assistant
+543,141,Stock Assistant
+544,31,Manager
+545,116,Stock Assistant
+546,167,Stock Assistant
+547,63,Manager
+548,48,Stock Assistant
+549,87,Manager
+550,48,Manager
+551,61,Cashier
+552,140,Cashier
+553,78,Manager
+554,184,Manager
+555,18,Cashier
+556,155,Stock Assistant
+557,28,Stock Assistant
+558,80,Stock Assistant
+559,180,Manager
+560,16,Cashier
+561,77,Stock Assistant
+562,186,Cashier
+563,137,Cashier
+564,26,Manager
+565,28,Stock Assistant
+566,105,Cashier
+567,77,Manager
+568,164,Manager
+569,9,Manager
+570,175,Stock Assistant
+571,51,Stock Assistant
+572,76,Manager
+573,122,Stock Assistant
+574,185,Stock Assistant
+575,32,Cashier
+576,195,Manager
+577,57,Manager
+578,54,Stock Assistant
+579,116,Manager
+580,144,Manager
+581,62,Manager
+582,84,Stock Assistant
+583,56,Stock Assistant
+584,23,Stock Assistant
+585,17,Cashier
+586,166,Manager
+587,200,Cashier
+588,158,Stock Assistant
+589,186,Cashier
+590,78,Manager
+591,22,Manager
+592,108,Stock Assistant
+593,17,Stock Assistant
+594,15,Cashier
+595,114,Stock Assistant
+596,48,Cashier
+597,160,Manager
+598,113,Manager
+599,168,Manager
+600,97,Manager
+601,185,Manager
+602,186,Cashier
+603,91,Manager
+604,16,Cashier
+605,156,Manager
+606,98,Cashier
+607,111,Cashier
+608,1,Cashier
+609,41,Stock Assistant
+610,48,Cashier
+611,159,Cashier
+612,164,Manager
+613,108,Cashier
+614,161,Cashier
+615,161,Stock Assistant
+616,103,Manager
+617,128,Stock Assistant
+618,151,Stock Assistant
+619,188,Stock Assistant
+620,30,Cashier
+621,45,Stock Assistant
+622,80,Stock Assistant
+623,39,Manager
+624,45,Manager
+625,78,Manager
+626,81,Manager
+627,140,Stock Assistant
+628,93,Manager
+629,32,Cashier
+630,184,Stock Assistant
+631,24,Manager
+632,116,Stock Assistant
+633,13,Manager
+634,148,Stock Assistant
+635,79,Manager
+636,56,Cashier
+637,53,Manager
+638,68,Stock Assistant
+639,182,Stock Assistant
+640,34,Cashier
+641,28,Stock Assistant
+642,50,Cashier
+643,130,Stock Assistant
+644,111,Stock Assistant
+645,94,Cashier
+646,154,Stock Assistant
+647,179,Stock Assistant
+648,47,Cashier
+649,26,Manager
+650,84,Cashier
+651,106,Stock Assistant
+652,92,Manager
+653,120,Manager
+654,75,Manager
+655,122,Cashier
+656,189,Manager
+657,151,Manager
+658,165,Manager
+659,41,Stock Assistant
+660,52,Cashier
+661,82,Cashier
+662,177,Stock Assistant
+663,155,Manager
+664,134,Stock Assistant
+665,74,Stock Assistant
+666,66,Manager
+667,24,Manager
+668,166,Cashier
+669,28,Manager
+670,156,Stock Assistant
+671,117,Stock Assistant
+672,114,Manager
+673,194,Cashier
+674,61,Stock Assistant
+675,174,Manager
+676,69,Cashier
+677,114,Cashier
+678,75,Stock Assistant
+679,171,Stock Assistant
+680,59,Cashier
+681,130,Cashier
+682,15,Cashier
+683,105,Manager
+684,165,Stock Assistant
+685,199,Cashier
+686,148,Stock Assistant
+687,98,Stock Assistant
+688,35,Stock Assistant
+689,162,Cashier
+690,31,Manager
+691,127,Cashier
+692,19,Stock Assistant
+693,196,Cashier
+694,24,Cashier
+695,84,Stock Assistant
+696,167,Stock Assistant
+697,92,Cashier
+698,182,Cashier
+699,167,Cashier
+700,145,Cashier
+701,147,Manager
+702,118,Cashier
+703,176,Manager
+704,163,Stock Assistant
+705,160,Manager
+706,175,Stock Assistant
+707,47,Manager
+708,192,Stock Assistant
+709,174,Cashier
+710,103,Manager
+711,121,Manager
+712,163,Stock Assistant
+713,94,Stock Assistant
+714,145,Manager
+715,42,Stock Assistant
+716,111,Cashier
+717,29,Manager
+718,198,Cashier
+719,124,Manager
+720,17,Cashier
+721,14,Manager
+722,152,Stock Assistant
+723,185,Manager
+724,50,Cashier
+725,57,Manager
+726,189,Cashier
+727,104,Cashier
+728,39,Cashier
+729,183,Stock Assistant
+730,96,Manager
+731,36,Cashier
+732,114,Stock Assistant
+733,37,Cashier
+734,14,Manager
+735,155,Stock Assistant
+736,123,Cashier
+737,83,Cashier
+738,159,Cashier
+739,73,Manager
+740,102,Stock Assistant
+741,81,Stock Assistant
+742,83,Stock Assistant
+743,44,Cashier
+744,68,Stock Assistant
+745,48,Cashier
+746,57,Manager
+747,75,Stock Assistant
+748,22,Cashier
+749,132,Stock Assistant
+750,200,Stock Assistant
+751,46,Manager
+752,187,Stock Assistant
+753,162,Manager
+754,11,Stock Assistant
+755,31,Stock Assistant
+756,139,Stock Assistant
+757,120,Stock Assistant
+758,56,Stock Assistant
+759,38,Stock Assistant
+760,21,Manager
+761,110,Manager
+762,94,Cashier
+763,138,Stock Assistant
+764,154,Manager
+765,136,Stock Assistant
+766,8,Stock Assistant
+767,188,Manager
+768,72,Stock Assistant
+769,119,Manager
+770,34,Manager
+771,144,Cashier
+772,105,Cashier
+773,141,Cashier
+774,87,Cashier
+775,150,Stock Assistant
+776,155,Stock Assistant
+777,64,Cashier
+778,2,Manager
+779,109,Manager
+780,26,Manager
+781,83,Manager
+782,107,Stock Assistant
+783,69,Manager
+784,97,Manager
+785,30,Cashier
+786,8,Manager
+787,38,Stock Assistant
+788,189,Manager
+789,81,Manager
+790,108,Stock Assistant
+791,65,Cashier
+792,67,Stock Assistant
+793,174,Cashier
+794,90,Manager
+795,95,Cashier
+796,72,Cashier
+797,43,Cashier
+798,187,Manager
+799,46,Cashier
+800,200,Cashier
