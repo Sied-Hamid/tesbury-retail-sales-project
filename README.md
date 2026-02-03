@@ -1,4 +1,4 @@
-## 🛒 UK Tesbury Retail Sales Performance Analysis
+## 🛒 UK Tesbury Retail Sales Performance Analysis -- tell me later to update
 #### SQL | Retail Analytics | Business Intelligence
 
 # 📌 Project Overview
