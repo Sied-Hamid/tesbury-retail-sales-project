@@ -3,7 +3,7 @@
 
 # 📌 Project Overview
 
-This project analyses UK retail sales performance for Tesbury, using anonymised and synthetic transactional data structured to reflect real-world UK retail operations.
+This project analyses UK retail sales performance for Tesbury, using transactional data structured to reflect real-world UK retail operations.
 
 The analysis focuses on evaluating sales performance, product efficiency, store and city performance, pricing effectiveness, promotion impact, and time-based revenue trends, with the objective of producing actionable, business-oriented insights.
 
